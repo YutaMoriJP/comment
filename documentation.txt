@@ -1,0 +1,4 @@
+Wayts to remove specific node: convert storeText into an array of objects, an object with text that will be displayed
+and shouldDelete property that has either true or false, if true then that will be deleted
+
+Or use with indexOf() ?
